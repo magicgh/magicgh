@@ -5,10 +5,12 @@
 ![focus](https://img.shields.io/badge/focus-Linguistics-yellowgreen)
 ![visitors](https://visitor-badge.herokuapp.com/badge?page_id=magicgh.github.profile)
 
-<br/><br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magicgh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-&emsp;&emsp;
+
+<br/>
+
 [![Magicgh's github stats](https://github-readme-stats.vercel.app/api?username=magicgh&show_icons=true)](https://github.com/magicgh)
 
 </div>  
