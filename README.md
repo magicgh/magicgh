@@ -2,7 +2,7 @@
   
 ### Hi there, I'm Billy Zhang 👋
 ![age](https://img.shields.io/badge/age-19-brightgreen)
-![focus](https://img.shields.io/badge/focus-Linguistics-yellowgreen)
+![focus](https://img.shields.io/badge/focus-NLP-yellowgreen)
 ![visitors](https://visitor-badge.herokuapp.com/badge?page_id=magicgh.github.profile)
 
 <br/>
