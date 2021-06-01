@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/magicgh/magicgh/output/github-contribution-grid-snake.svg" alt="a snake game">
-  <h3> Hi there, I'm Billy Zhang 👋 </h3>
+  <h2> Hi there, I'm Billy Zhang 👋 </h2>
   
 </div>
 
