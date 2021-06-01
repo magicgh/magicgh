@@ -1,0 +1,16 @@
+name: Readme Configuration
+
+on:
+  schedule:
+    - cron: "0 0 0 */1 * ?"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: magicgh
+          svg_out_path: assets/github-contribution-grid-snake.svg
