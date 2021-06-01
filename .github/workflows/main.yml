@@ -1,6 +1,7 @@
-name: Readme Configuration
+name: readme configuration
 
 on:
+  push:
   schedule:
     - cron: "0 0 */1 * *"
 
