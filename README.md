@@ -7,7 +7,7 @@
 
 - 🔭 I’m a junior undergraduate studying Computer Science.
 - 🌱 I’m currently interested in Multi-View Learning and Natural Language Processing.
-- ⚙️ Familiar with C/C++, Python, JavaScript/Typescript, Rust and Julia.
+- ⚙️ Familiar with C/C++, Python, JavaScript, Rust and Julia.
 - 📫 Feel free to [Email](mailto:magicgher@hotmail.com) me.
 - 😄 Pronouns: He/Him
 
