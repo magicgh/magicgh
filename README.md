@@ -6,7 +6,7 @@
 </div>
 
 - 🔭 I’m a junior undergraduate studying Computer Science.
-- 🌱 I’m currently interested in Multi-View Learning and Natural Language Processing.
+- 🌱 I’m currently interested in Multi-Modal Learning, Natural Language Processing, and Reinforcement Learning.
 - ⚙️ Familiar with C/C++, Python, JavaScript, Rust and Julia.
 - 📫 Feel free to [Email](mailto:github@magicgh.com) me.
 - 😄 Pronouns: He/Him
