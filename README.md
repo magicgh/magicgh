@@ -6,7 +6,7 @@
 </div>
 
 - 🔭 I’m a junior undergraduate studying Computer Science.
-- ⚗️ I’m currently focusing on NLP, data mining and RL.
+- ⚗️ I’m currently focusing on Natural (Programming) Language Processing and Reinforcement Learning.
 - ⚙️ Familiar with C/C++, Python, JavaScript, Rust and Julia.
 - 📫 Feel free to [Email](mailto:github@magicgh.com) me.
 - 😄 Pronouns: He/Him
