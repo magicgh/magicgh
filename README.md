@@ -5,8 +5,9 @@
   
 </div>
 
-- 🔭 I’m a junior undergraduate studying Computer Science.
-- ⚗️ I’m currently focusing on NLP + Data Mining and Reinforcement Learning.
+- 🔭 I’m a junior undergraduate majoring in Computer Science and Technology.
+- ⚗️ My research interests mainly lie in NLP, Data Mining and Reinforcement Learning.
+- 🈸 I am looking for a research-based master/Ph.D. position in Fall 2023.
 - ⚙️ Familiar with C/C++, Python, JavaScript, Rust and Julia.
 - 📫 Feel free to [Email](mailto:github@magicgh.com) me.
 - 😄 Pronouns: He/Him
