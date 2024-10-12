@@ -4,7 +4,7 @@
   
 </div>
 
-- 🔭 I’m a first-year Master's student at NUS.
+- 🔭 I’m a second-year Master's student at NUS.
 - 📫 Feel free to [Email](mailto:github@magicgh.com) me.
 - 😄 Pronouns: He/Him
 
