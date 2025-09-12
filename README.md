@@ -3,8 +3,8 @@
   <h1> Hi there, I'm Xuan "Billy" Zhang 👋 </h1>
   
 </div>
-
-- 📫 Feel free to [Email](mailto:github@magicgh.com) me.
+- 🎓 I am a PhD student (in AI/ML) from Singapore 🇸🇬.
+- 📫 Feel free to [Email](mailto:github@magicgh.com) with any GitHub-related inquiries.
 - 😄 Pronouns: He/Him
 
 <div align="center">
